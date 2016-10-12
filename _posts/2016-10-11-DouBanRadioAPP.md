@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Dou Ban Radio
 date: 2016-10-11
 ---
