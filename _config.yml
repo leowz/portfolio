@@ -1,6 +1,8 @@
-title: Jekyll Scroll
-description: An one-page scrollable theme for Jekyll
-url: "jekyllscroll.onevcat.com"
+title: All About Léo WENG
+description: CV And Projects
+timezone: Paris/France
+future: true
+# url: "jekyllscroll.onevcat.com"
 
 # Build settings
-markdown: kramdown
+# markdown: redcarpet
