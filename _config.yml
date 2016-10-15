@@ -3,4 +3,4 @@ description: An one-page scrollable theme for Jekyll
 url: "jekyllscroll.onevcat.com"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
